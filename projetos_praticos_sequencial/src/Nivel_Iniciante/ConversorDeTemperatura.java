@@ -1,3 +1,5 @@
+package Nivel_Iniciante;
+
 import java.util.Locale;
 import java.util.Scanner;
 
