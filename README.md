@@ -1,2 +1,3 @@
-# Curso-Formacao-Java-Developer-DIO
-Repositório para armazenar todo o conteúdo do curso Formação Java Developer-Plataforma DIO.me
+#Sistema de Viabilidade Financeira de uma Pequena Empresa
+
+Desenvolva um programa sequencial que simule o funcionamento financeiro de uma pequena empresa durante um ano, utilizando como base as informações de apenas um mês de operação. O programa deverá coletar uma única vez os valores referentes ao investimento inicial, às receitas mensais, aos custos fixos mensais, aos custos variáveis, aos impostos e ao crescimento estimado. Depois, deverá calcular os resultados de um mês e projetar esses valores para doze meses. A solução deverá utilizar somente entrada de dados, variáveis, operações matemáticas, cálculos percentuais e saída formatada.
