@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Formacao-Java-Developer-DIO.iml" filepath="$PROJECT_DIR$/.idea/Curso-Formacao-Java-Developer-DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aprendendo-a-sintaxe-java/aprendendo-a-sintaxe-java.iml" filepath="$PROJECT_DIR$/aprendendo-a-sintaxe-java/aprendendo-a-sintaxe-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-de-fluxo/controle-de-fluxo.iml" filepath="$PROJECT_DIR$/controle-de-fluxo/controle-de-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trinha-java-basico/dio-trinha-java-basico.iml" filepath="$PROJECT_DIR$/dio-trinha-java-basico/dio-trinha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos_praticos_condicional/projetos_praticos_condicional.iml" filepath="$PROJECT_DIR$/projetos_praticos_condicional/projetos_praticos_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos_praticos_lacos_repeticao/projetos_praticos_lacos_repeticao.iml" filepath="$PROJECT_DIR$/projetos_praticos_lacos_repeticao/projetos_praticos_lacos_repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos_praticos_sequencial/projetos_praticos_sequencial.iml" filepath="$PROJECT_DIR$/projetos_praticos_sequencial/projetos_praticos_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-viabilidade-financeira/sistema-viabilidade-financeira.iml" filepath="$PROJECT_DIR$/sistema-viabilidade-financeira/sistema-viabilidade-financeira.iml" />
+    </modules>
+  </component>
+</project>
