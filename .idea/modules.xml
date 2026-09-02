@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Formacao-Java-Developer-DIO.iml" filepath="$PROJECT_DIR$/.idea/Curso-Formacao-Java-Developer-DIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/aprendendo-a-sintaxe-java/aprendendo-a-sintaxe-java.iml" filepath="$PROJECT_DIR$/aprendendo-a-sintaxe-java/aprendendo-a-sintaxe-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-candidato/controle-candidato.iml" filepath="$PROJECT_DIR$/controle-candidato/controle-candidato.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-de-fluxo/controle-de-fluxo.iml" filepath="$PROJECT_DIR$/controle-de-fluxo/controle-de-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-trinha-java-basico/dio-trinha-java-basico.iml" filepath="$PROJECT_DIR$/dio-trinha-java-basico/dio-trinha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programacao_orientada_a_objetos/programacao_orientada_a_objetos.iml" filepath="$PROJECT_DIR$/programacao_orientada_a_objetos/programacao_orientada_a_objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetos_praticos_condicional/projetos_praticos_condicional.iml" filepath="$PROJECT_DIR$/projetos_praticos_condicional/projetos_praticos_condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetos_praticos_lacos_repeticao/projetos_praticos_lacos_repeticao.iml" filepath="$PROJECT_DIR$/projetos_praticos_lacos_repeticao/projetos_praticos_lacos_repeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetos_praticos_sequencial/projetos_praticos_sequencial.iml" filepath="$PROJECT_DIR$/projetos_praticos_sequencial/projetos_praticos_sequencial.iml" />
