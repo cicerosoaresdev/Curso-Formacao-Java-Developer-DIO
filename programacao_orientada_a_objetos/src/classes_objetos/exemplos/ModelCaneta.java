@@ -1,14 +1,14 @@
 package classes_objetos.exemplos;
 
 public class ModelCaneta {
-    String modelo;
-    String cor;
-    double ponta;
-    int carga;
-    boolean tampada;
+    public String modelo;
+    public String cor;
+    private double ponta;
+    protected int carga;
+    private boolean tampada;
 
 
-    void status(){
+    public void status(){
         System.out.println("Modelo: "+ this.modelo);
         System.out.println("Uma caneta "+ this.cor);
         System.out.println("Ponta: "+ this.ponta);
@@ -17,7 +17,7 @@ public class ModelCaneta {
     }
 
 
-    void rabiscar(){
+   public void rabiscar(){
         if (this.tampada == true){
             System.out.println("Erro! Não posso rabiscar");
         }else {
@@ -25,12 +25,13 @@ public class ModelCaneta {
         }
     }
 
-    void tampar(){
+
+   protected void tampar(){
         this.tampada = true;
 
     }
 
-    void destampar(){
+   protected void destampar(){
         this.tampada = false;
 
     }

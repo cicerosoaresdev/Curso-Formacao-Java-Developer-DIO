@@ -5,18 +5,12 @@ public class Caneta {
         ModelCaneta c1 = new ModelCaneta();
         c1.modelo = "Bic";
         c1.cor = "Azul";
-        c1.ponta = 0.5;
-        c1.tampar();
-
-        c1.status();
+        //c1.ponta = 0.5;
+        c1.carga = 80;
+       // c1.tampada = false;
         c1.rabiscar();
+        c1.status();
 
-        ModelCaneta c2 = new ModelCaneta();
-        c2.modelo = "Fabel Castel";
-        c2.cor = "Preta";
-        c2.ponta = 0.7;
-        c2.destampar();
-        c2.status();
 
 
     }

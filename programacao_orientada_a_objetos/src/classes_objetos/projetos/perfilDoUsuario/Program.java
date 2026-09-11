@@ -1,4 +1,4 @@
-package classes_objetos.Exercicios.Perfio_do_Usuario;
+package classes_objetos.projetos.perfilDoUsuario;
 
 import java.util.Scanner;
 
@@ -21,11 +21,12 @@ public class Program {
         administrador.telefone = input.nextLine();
         System.out.println("-----------------------------------------------");
 
-        administrador.aprensentar();
-        System.out.println("O usúario é maior de idade?: "+administrador.maiorDeIdade());
+        administrador.apresentar();
 
-        administrador.mostraResulmo();
+        System.out.println("É maior de idade?: "+administrador.maiorDeIdade());
+        System.out.println("Pode criar conta?: "+administrador.podeCriarConta());
 
+        administrador.mostrarResumo();
 
         input.close();
     }

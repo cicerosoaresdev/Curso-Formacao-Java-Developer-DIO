@@ -1,4 +1,4 @@
-package classes_objetos.Exercicios.Perfio_do_Usuario;
+package classes_objetos.projetos.perfilDoUsuario;
 
 public class Usuario {
     // Atributos
@@ -8,23 +8,30 @@ public class Usuario {
     String cidade;
     String telefone;
 
+    final int IDADE_MINIMA_CONTA = 18;
+
     //Métodos
 
-    public void aprensentar(){
+    public void apresentar(){
         System.out.println("Olá, sou o "+this.nome);
 
     }
 
     public boolean maiorDeIdade(){
-        if (this.idade >= 18){
-            return true;
-        }else {
-            return false;
-        }
+        return idade >= IDADE_MINIMA_CONTA;
     }
 
-    public void mostraResulmo(){
-        System.out.println("\n======= Informações do Usúario ========\n");
+    public boolean podeCriarConta(){
+        return maiorDeIdade();
+    }
+
+    public void alterarCidade(String novaCidade){
+        this.cidade = novaCidade;
+
+    }
+
+    public void mostrarResumo(){
+        System.out.println("\n======= Informações do Usuário ========\n");
         System.out.println("Nome: "+this.nome);
         System.out.println("Email: "+this.email);
         System.out.println("Idade: "+this.idade);
