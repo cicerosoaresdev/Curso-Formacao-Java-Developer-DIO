@@ -13,7 +13,7 @@ public class Program {
         boletim.aluno = aluno;
         boletim.nota1 = 8.25;
         boletim.nota2 = 6.65;
-        boletim.nota3 = 3.44;
+        boletim.nota3 = 9.44;
 
         boletim.mostrarResultado();
 
