@@ -43,11 +43,9 @@ public class Carteira {
 
     }
 
-    public double consultarTotalGastoHoje(){
-        return totalGastoHoje;
-    }
 
     public double consultarLimiteRestante(){
+
         return limiteDiario - totalGastoHoje;
     }
 
